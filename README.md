@@ -1,5 +1,5 @@
-### <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello World 👋
-## I'm Alec 💻
+### <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello World 
+## 👋 I'm Alec 💻
 I'm a Fronten Developer. passionate about web technologies and love learn new things
 
 ## 📫 Tech Stack
