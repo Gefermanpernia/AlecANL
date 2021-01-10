@@ -10,6 +10,8 @@ I'm a Fronten Developer. passionate about web technologies and love learn new th
 - LinkedIn - [Alec](https://www.linkedin.com/in/brandon-alexei-alvarez-ab5b53173/)
 - DevChallenge - [Alec](https://devchallenges.io/profile/rOKVG1SH5g40mChkF92u)
 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=AlecANL/AlecANL)
 <!--
 **AlecANL/AlecANL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
