@@ -11,13 +11,14 @@ I'm a Fronten Developer. passionate about web technologies and love learn new th
 - LinkedIn - [Alec](https://www.linkedin.com/in/brandon-alexei-alvarez-ab5b53173/)
 - DevChallenge - [Alec](https://portfolio.devchallenges.io/AlecANL)
 
+<div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alecanl&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alecanl&show_icons=true&theme=dracula" />
 </a>
-
+</div>
 
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=AlecANL/AlecANL) -->
