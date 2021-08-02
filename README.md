@@ -26,6 +26,36 @@ I'm a Fronten Developer. passionate about web technologies and love learn new th
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=alecanl&show_icons=true&theme=dracula" />
 </p> -->
 
+<!-- <h1 align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello World I'm Alec 💻
+</h1>
+I'm a Fronten Developer. passionate about web technologies and love learn new things
+
+## 📫 Tech Stack
+
+- HTML | CSS | Javascript
+
+## Get in touch
+
+- LinkedIn - [Alec](https://www.linkedin.com/in/brandon-alexei-alvarez-ab5b53173/)
+- DevChallenge - [Alec](https://portfolio.devchallenges.io/AlecANL) -->
+
+  <!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alecanl&show_icons=true&theme=dracula" /> -->
+
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=AlecANL/AlecANL) -->
+
+<!-- ![alec's github stats](https://github-readme-stats.vercel.app/api?username=alecanl&show_icons=true&theme=radical) -->
+<!-- <p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alecanl&show_icons=true&theme=dracula" />
+</p> -->
+
+<!-- ![screenshot](https://github.com/AlecANL/AlecANL/blob/main/images/react-wp.jpg?raw=true) -->
+<!-- <img src="https://github.com/AlecANL/AlecANL/blob/main/images/react-wp.jpg?raw=true"> -->
+
+<!-- ![I am GitHub Readme Generator's creator](https://github.com/AlecANL/AlecANL/blob/main/images/react-wp3.jpg?raw=true) -->
+
+<img width="1024" height="400" src="https://github.com/AlecANL/AlecANL/blob/main/images/react-wp3.jpg?raw=true">
+
 <div align="center">
 
 ## My Tech Skills:
@@ -46,6 +76,15 @@ I'm a Fronten Developer. passionate about web technologies and love learn new th
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=alecanl&show_icons=true&theme=dracula" />
   <!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alecanl&show_icons=true&theme=dracula" />  -->
+</div>
+
+<br />
+<br />
+
+<div align="center">
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=alecanl&theme=dracula)
+
 </div>
 
 <br />
